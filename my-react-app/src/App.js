@@ -1,4 +1,8 @@
-import './App.css';
+// src/App.js
+
+import './css/main.css';
+// import {hentAlleEmner} from './sanity/service'
+import {useEffect, useState} from 'react'
 
 function App() {
   return (
